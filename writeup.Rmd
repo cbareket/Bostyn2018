@@ -1,0 +1,94 @@
+---
+title: "Replication of Of Mice, Men, and Trolleys by Bostyn, Sevenhant & Roets (2018, Psychological Science)"
+author: "Bostyn, Sevenhant & Roets (Dries.Bostyn@Ugent.be)"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output:
+  html_document:
+    toc: yes
+    toc_depth: 3
+    toc_float:
+      collapsed: false
+---
+
+##Introduction
+In these two studies, Bostyn, Sevenhant, and Roets investigated the role of reality in moral reasoning and decision-making. The researchers compared the decisions made in hypothetical scenarios in an online survey and the decision made in the real-life mouse dilemma, in which participants were asked to decide whether to deliver a shock to an individual mouse, or to a group of mice. This version of the trolley problem compared consequentialist reasoning (minimize the costs, thereby shocking the individual mouse) and deontological reasoning (situational context does not make an action OK, the act of inflicting pain is wrong, therefore you must not intentionally put pain on the individual mouse). Bostyn, Sevenhant, and Roets found that decision-making in the hypothetical scenarios did not predict decision-making in the real-life scenario. One of their main findings was that participants were twice as likely to make the consequentialist decision (shock the individual mouse to save the group) in the real-life scenario than in the hypotheteical scenario.
+
+I selected this project because I am interested in moral decision making, and would like to learn more about consequentialist and deontological reasoning. As I am an auditor for the course, I will not be collecting data for this project. Bostyn, Sevenhant, and Roets have provided their raw data, as well as some of their stimuli, on the open science framework. I chose this study in part because I will be able to follow the course in experimental design and data analysis, by using the available data and text.
+
+##Methods
+All participants were asked to respond to hypothetical scenarios similar to the classic trolley problem: when faced with the opportunity to save a group from a negative event, do you inflict that negative event on an individual to save the group? 
+Participants were then presented with either the real-life mouse dilemma, or the hypothetical mouse dilemma.
+
+###Power Analysis
+As I will not be collecting data for this project (I am an auditor), I will not be conducting a power analysis
+
+###Planned Sample
+As I will not be collecting data for this project (I am an auditor), I use the available data from the 300 participants. 
+
+###Materials
+
+Hypothetical mouse dilemma
+"Imagine the following situation. You are participating
+in an experiment as part of a course in Social
+Psychology. Previously, you were asked to respond
+to several moral dilemmas, much like the ones you
+have answered. You are guided to the lab, the door
+opens and you see two cages with mice: one cage
+containing a single mouse, one cage containing
+five mice. An electroshock is hooked up to both
+cages. The experimenter tells you that after a
+20 second timer, an electrical shock will be
+administered to the cage with the five mice but
+that you can push a button to redirect this shock
+to the cage containing the single mouse. The
+shocks are very painful but nonlethal. Would you
+press the button?"
+
+###Procedure	
+
+###Analysis Plan
+
+
+**Clarify key analysis of interest here**  You can also pre-specify additional analyses you plan to do.
+
+###Differences from Original Study
+
+As I will not be collecting data for this project (I am an auditor), there will be no differences.
+
+### Methods Addendum (Post Data Collection)
+
+
+#### Actual Sample
+
+#### Differences from pre-data collection methods plan
+
+
+##Results
+
+
+### Data preparation
+
+```{r include=F}
+###Data Preparation
+
+####Load Relevant Libraries and Functions
+
+####Import data
+
+#### Data exclusion / filtering
+
+#### Prepare data for analysis - create columns etc.
+```
+
+### Confirmatory analysis
+
+*Side-by-side graph with original graph is ideal here*
+
+###Exploratory analyses
+
+## Discussion
+
+### Summary of Replication Attempt
+
+### Commentary
+
